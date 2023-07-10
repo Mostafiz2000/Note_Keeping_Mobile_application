@@ -1,16 +1,16 @@
-# practice
+![Screenshot_2023-01-30-22-41-39-796_com example practice](https://github.com/Mostafiz2000/Note_Keeping_Mobile_application/assets/73824602/5d3b8822-ac93-4207-8d13-f36303e7ce59)# practice
 
 A new Flutter project.
 
-## Getting Started
+
 
 This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+We can create, update and delete notelist. This application has beautiful Customized UI design. 
+<img src="https://github.com/Mostafiz2000/Note_Keeping_Mobile_application/assets/73824602/308d49f4-29f5-425c-8d7a-1c5fcdc824cf" width="200" height="400" />
+<img src="https://github.com/Mostafiz2000/Note_Keeping_Mobile_application/assets/73824602/e1d14ae4-eefd-4400-9d6c-26535260ef50" width="200" height="400" />
+<img src="https://github.com/Mostafiz2000/Note_Keeping_Mobile_application/assets/73824602/31350039-3586-4c70-8f4f-6eaa36a41de3" width="200" height="400" />
+<img src="https://github.com/Mostafiz2000/Note_Keeping_Mobile_application/assets/73824602/69073575-8f64-4699-8702-8df273993c67" width="200" height="400" />
+<img src="https://github.com/Mostafiz2000/Note_Keeping_Mobile_application/assets/73824602/5b89dfca-59fd-492b-9b4b-4a44a3605b4d" width="200" height="400" />
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
