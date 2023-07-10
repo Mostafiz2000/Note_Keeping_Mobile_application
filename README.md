@@ -17,7 +17,8 @@ We can create, update and delete notelist. This application has beautiful Custom
 &nbsp
 <img src="https://github.com/Mostafiz2000/Note_Keeping_Mobile_application/assets/73824602/69073575-8f64-4699-8702-8df273993c67" width="220" height="350" />
 &nbsp
+<center> 
 <img src="https://github.com/Mostafiz2000/Note_Keeping_Mobile_application/assets/73824602/5b89dfca-59fd-492b-9b4b-4a44a3605b4d" width="220" height="350" />
 &nbsp
 <img src="https://github.com/Mostafiz2000/Note_Keeping_Mobile_application/assets/73824602/5d3b8822-ac93-4207-8d13-f36303e7ce59" width="220" height="350"/>
-
+</center>
